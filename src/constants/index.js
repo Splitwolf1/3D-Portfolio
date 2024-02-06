@@ -176,7 +176,7 @@ import {
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like Tanaka Brian does.",
-      name: "Chris Brown",
+      name: "Chris Williams",
       designation: "COO",
       company: "DEF Corp",
       image: "https://randomuser.me/api/portraits/men/5.jpg",
