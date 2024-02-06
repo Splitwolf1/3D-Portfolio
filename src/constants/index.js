@@ -211,7 +211,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/Splitwolf1/Car-Rent",
+      source_code_link: "https://github.com/Splitwolf1/car_showcase",
     },
     {
       name: "Job IT",
